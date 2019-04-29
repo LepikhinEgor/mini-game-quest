@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 863754bd12c870a419a28abf09b406ba
+  - enabled: 1
+    path: Assets/Scenes/RunnerScene.unity
+    guid: 1065fa64213a7c84494c655a5ac94ecb
+  - enabled: 1
+    path: Assets/Scenes/PrologueScene.unity
+    guid: 181da947a54055b49a3c3dd56219f748
+  - enabled: 1
+    path: Assets/Scenes/VasilisaScene.unity
+    guid: d15ed212353b8bf48bb641d8741616dd
+  - enabled: 1
+    path: Assets/Scenes/EarMassagaScene.unity
+    guid: 0c85eec2c6c268e43beae3226cbe61e1
+  - enabled: 1
+    path: Assets/Scenes/CarlsonScene.unity
+    guid: a9be14b295aa4834cab0549d29dcd1be
+  - enabled: 1
+    path: Assets/Scenes/BreathTrainScene.unity
+    guid: f26ae18ba8fa73c419da219486f1e859
+  - enabled: 1
+    path: Assets/Scenes/KyzyaScene.unity
+    guid: 457b82cc8dad37643a288c2066172f03
+  - enabled: 1
+    path: Assets/Scenes/KosheyScene.unity
+    guid: 40f64e922f4add54cb8491f54aaf7917
+  - enabled: 1
+    path: Assets/Scenes/ShakeScene.unity
+    guid: 7950d293eb2abef4a8b06cd9b334e6dd
+  - enabled: 1
+    path: Assets/Scenes/DragonScene.unity
+    guid: 0de6e5ee90dfd2143b81b9cb3d67a0fd
+  - enabled: 1
+    path: Assets/Scenes/ShouldersScene.unity
+    guid: 7e4957f305f24734493780f23e7115fd
+  - enabled: 1
+    path: Assets/Scenes/PattingScene.unity
+    guid: 63fe9cb4604a9e3469559a4c1c1bfa1d
+  - enabled: 1
+    path: Assets/Scenes/FinalScene.unity
+    guid: 4db9dc7813dde3b4b9d8c9259949746d
+  m_configObjects: {}
